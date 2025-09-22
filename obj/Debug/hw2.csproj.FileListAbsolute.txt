@@ -1,8 +1,0 @@
-D:\3 курс\ТРСПО\hw2\bin\Debug\hw2.exe.config
-D:\3 курс\ТРСПО\hw2\bin\Debug\hw2.exe
-D:\3 курс\ТРСПО\hw2\bin\Debug\hw2.pdb
-D:\3 курс\ТРСПО\hw2\obj\Debug\hw2.csproj.AssemblyReference.cache
-D:\3 курс\ТРСПО\hw2\obj\Debug\hw2.csproj.SuggestedBindingRedirects.cache
-D:\3 курс\ТРСПО\hw2\obj\Debug\hw2.csproj.CoreCompileInputs.cache
-D:\3 курс\ТРСПО\hw2\obj\Debug\hw2.exe
-D:\3 курс\ТРСПО\hw2\obj\Debug\hw2.pdb
