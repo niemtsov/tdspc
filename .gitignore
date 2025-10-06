@@ -1,0 +1,22 @@
+# Visual Studio тимчасові файли
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ipch
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Папки Visual Studio
+.vs/
+Debug/
+Release/
+ipch/
